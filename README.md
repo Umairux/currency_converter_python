@@ -11,3 +11,10 @@ A Python application that converts one currency into another using live exchange
 - Python
 - Requests
 - Frankfurter API
+
+## Note
+the list of available currencies depends on the Frankfurter API
+PKR(pakistan rupees) is not currently not supported this API
+
+##API Used
+Frankfurter API
